@@ -1,0 +1,32 @@
+/* Created by: Anita Kay
+* Created on: April 2022
+* This CSS file defines the style for index.html
+* Unit4-03-HTML-Movie
+*/
+
+body {
+	background-color: #c75e24;
+}
+
+h1 {
+	background-color: #c79f58;
+	color:#3b1300;
+	padding: 40px;
+	text-align: center;
+}
+
+p {
+	background-color: #c79f58;
+}
+
+div {
+	
+  font-weight: bold;
+  color: #3b1300;
+  margin: 5px;
+}
+
+#display-results{
+	background-color: #c79f58;
+	font-size: 20px;
+}
